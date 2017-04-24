@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumWorld.Plugins", "QuantumWorld.Plugins.csproj", "{72AF0163-31E1-7330-45C2-72B9D7858BC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumWorld", "QuantumWorld.csproj", "{79216BC0-D381-3B2C-A978-97FD159B6C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumWorld.Editor.Plugins", "QuantumWorld.Editor.Plugins.csproj", "{A26CC08C-E961-78A4-2D56-1E21F755E642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72AF0163-31E1-7330-45C2-72B9D7858BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72AF0163-31E1-7330-45C2-72B9D7858BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72AF0163-31E1-7330-45C2-72B9D7858BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72AF0163-31E1-7330-45C2-72B9D7858BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79216BC0-D381-3B2C-A978-97FD159B6C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79216BC0-D381-3B2C-A978-97FD159B6C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79216BC0-D381-3B2C-A978-97FD159B6C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79216BC0-D381-3B2C-A978-97FD159B6C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A26CC08C-E961-78A4-2D56-1E21F755E642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A26CC08C-E961-78A4-2D56-1E21F755E642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A26CC08C-E961-78A4-2D56-1E21F755E642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A26CC08C-E961-78A4-2D56-1E21F755E642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
